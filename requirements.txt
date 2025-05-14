@@ -1,0 +1,8 @@
+torch
+torchaudio
+transformers
+gradio
+phonemizer
+soundfile
+numpy
+unidecode
